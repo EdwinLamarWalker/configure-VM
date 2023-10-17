@@ -1,11 +1,11 @@
 ![image](https://github.com/EdwinLamarWalker/configure-VM/assets/147763790/c1fc6f41-95af-40fb-8c7c-f638843c7c1a)
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>Azure - Configuring Virtual Machines</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+
 
 <h2>Environments and Technologies Used</h2>
 
