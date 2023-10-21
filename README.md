@@ -1,4 +1,5 @@
-![image](https://github.com/EdwinLamarWalker/configure-VM/assets/147763790/c1fc6f41-95af-40fb-8c7c-f638843c7c1a)
+![image](https://github.com/EdwinLamarWalker/configure-VM/assets/147763790/197c73f4-8b76-4b8c-8ccb-e28085f16a7b)
+
 <h1>Azure - Configuring Virtual Machines</h1>
 This tutorial outlines the steps and procedures of creating a virtual machine and accessing it through remote desktop as you would in a remote work setting using a real Pc.<br />
 
